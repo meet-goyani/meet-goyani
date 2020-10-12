@@ -1,7 +1,7 @@
-### Hi there.!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
 ## My Self Meet and I'm Web Developer.
 
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
   
 
 ### Connect with me
