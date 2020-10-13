@@ -1,12 +1,28 @@
 ### Hi there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
 ## My Self Meet and I'm Web Developer.
 
-Currently, I'm pursuing my graduation in Marwadi Universiy as a student. 
+Currently, I'm pursuing my graduation from Marwadi Universiy. I'm learning Laravel as well as Angular frameworks.
 
 <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
-  
 
-### Connect with me
+## About me:
+
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m learning Laravel and Angular frameworks
+- 🤗 Hobbies : Learn new things
+
+## Languages and Tools:
+
+### Frond-end:
+
+
+### Back-end:
+
+
+### Tools:
+
+
+## Connect with me:
 
 <a href="https://twitter.com/meet_goyani08">
   <img align="left" alt="Meet's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,7 +35,7 @@ Currently, I'm pursuing my graduation in Marwadi Universiy as a student.
 </a>
 <br />
 
-### GitHub Status
+## GitHub Status:
 
 ![Meet's Github stats](https://github-readme-stats.vercel.app/api?username=meetgoyani08&show_icons=true)
 
