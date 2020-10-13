@@ -23,15 +23,15 @@ Currently, I'm pursuing my graduation from Marwadi Universiy. I'm learning Larav
 
 <h3>Back-end:</h3>
 
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/php.svg" width="45px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/MySQLpng.png" width="45px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/laravel-226015.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/php.svg" width="40px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/MySQLpng.png" width="40px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/laravel.png" width="30px">](#)
 
 <h3>Tools:</h3>
 
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/vs-code.png" width="30px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/sublime-text.svg" width="30px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/git.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/vs-code.png" width="25px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/sublime-text.svg" width="25px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/git.png" width="25px">](#)
 [<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/github.png" width="30px">](#)
 
 ## Connect with me:
