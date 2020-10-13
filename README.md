@@ -1,6 +1,8 @@
 ### Hi there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
 ## My Self Meet and I'm Web Developer.
 
+Currently, I'm pursuing my graduation in Marwadi Universiy as a student. 
+
 <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
   
 
