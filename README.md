@@ -13,14 +13,26 @@ Currently, I'm pursuing my graduation from Marwadi Universiy. I'm learning Larav
 
 ## Languages and Tools:
 
-### Frond-end:
+<h3>Frond-end:</h3>
 
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/html5.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/css.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/bootstrap.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/jquery.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/javascript.png" width="30px">](#)
 
-### Back-end:
+<h3>Back-end:</h3>
 
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/php.svg" width="45px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/MySQLpng.png" width="45px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/laravel-226015.png" width="30px">](#)
 
-### Tools:
+<h3>Tools:</h3>
 
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/vs-code.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/sublime-text.svg" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/git.png" width="30px">](#)
+[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/github.png" width="30px">](#)
 
 ## Connect with me:
 
