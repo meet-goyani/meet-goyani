@@ -1,5 +1,5 @@
 ### Hi there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
-## My Self Meet and I'm Web Developer.
+## I'm Meet. 
 
 Currently, I'm pursuing my graduation from Marwadi Universiy. I'm learning Laravel as well as Angular frameworks.
 
