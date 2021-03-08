@@ -1,14 +1,14 @@
 ### Hi there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
 ## I'm Meet. 
 
-Currently, I'm pursuing my graduation from Marwadi Universiy. I'm learning Laravel as well as Angular frameworks.
+Currently, I'm pursuing my graduation from Marwadi Universiy. I'm Interested on web technology and Currently i'm learning React.js Library.
 
 <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
 
 ## About me:
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m learning Laravel and Angular frameworks
+- 🌱 I’m learning React.js
 - 🤗 Hobbies : Learn new things
 
 ## Languages and Tools:
@@ -39,7 +39,7 @@ Currently, I'm pursuing my graduation from Marwadi Universiy. I'm learning Larav
 <a href="https://twitter.com/meet_goyani08">
   <img align="left" alt="Meet's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/meet-goyani08/">
+<a href="https://www.linkedin.com/in/meet-goyani">
   <img align="left" alt="Meet's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/meetgoyani08">
