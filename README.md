@@ -1,40 +1,26 @@
-### Hi there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
+### Hii there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
 ## I'm Meet. 
 
-Currently, I'm pursuing my graduation from Marwadi Universiy. I'm Interested on web technology and Currently i'm learning React.js Library.
+I'm pursuing my graduation from Marwadi University. Currently i'm learning MERN Stack Technology.
+
+#### Front-End Technology:
+✔ HTML/CSS<br>
+✔ Bootstrap<br>
+✔ Tailwind CSS<br>
+✔ Material UI<br>
+✔ React.js
+
+#### Back-End Technology:
+✔ PHP<br>
+✔ Rest API<br>
+✔ Node.js<br>
+✔ MySQL<br>
+✔ MongoDB
+
 
 <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
 
-## About me:
-
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m learning React.js
-- 🤗 Hobbies : Learn new things
-
-## Languages and Tools:
-
-<h3>Frond-end:</h3>
-
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/html5.png" width="30px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/css.png" width="30px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/bootstrap.png" width="30px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/jquery.png" width="30px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/javascript.png" width="30px">](#)
-
-<h3>Back-end:</h3>
-
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/php.svg" width="40px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/MySQLpng.png" width="40px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/laravel.png" width="30px">](#)
-
-<h3>Tools:</h3>
-
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/vs-code.png" width="25px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/sublime-text.svg" width="25px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/git.png" width="25px">](#)
-[<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/github.png" width="30px">](#)
-
-## Connect with me:
+### Connect with me:
 
 <a href="https://twitter.com/meet_goyani08">
   <img align="left" alt="Meet's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -47,7 +33,7 @@ Currently, I'm pursuing my graduation from Marwadi Universiy. I'm Interested on 
 </a>
 <br />
 
-## GitHub Status:
+### GitHub Status:
 
 ![Meet's Github stats](https://github-readme-stats.vercel.app/api?username=meetgoyani08&show_icons=true)
 
