@@ -12,10 +12,9 @@ I'm pursuing my graduation from Marwadi University. Currently i'm learning MERN 
 
 #### Back-End Technology:
 ✔ PHP<br>
-✔ Rest API<br>
+✔ API<br>
 ✔ Node.js<br>
-✔ MySQL<br>
-✔ MongoDB
+✔ MySQL
 
 ### Connect with me:
 
