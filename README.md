@@ -1,7 +1,6 @@
 ### Hii there.!<img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="30px"></h2>
 ## I'm Meet.
 
-I'm pursuing my graduation from Marwadi University. Currently i'm learning MERN Stack Technology.
 <!-- <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
 #### Front-End Technology:
 ✔ HTML/CSS<br>
@@ -12,7 +11,7 @@ I'm pursuing my graduation from Marwadi University. Currently i'm learning MERN 
 
 #### Back-End Technology:
 ✔ PHP<br>
-✔ API<br>
+✔ Laravel<br>
 ✔ Node.js<br>
 ✔ MySQL
 
