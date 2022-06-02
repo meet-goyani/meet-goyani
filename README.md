@@ -1,4 +1,4 @@
-### Hii there.! <img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="10px"></h2>
+### Hii there.! <img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="3%"></h2>
 ## I'm Meet.
 
 <!-- <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
