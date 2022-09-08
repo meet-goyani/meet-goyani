@@ -1,4 +1,4 @@
-### Hii there.! <img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="3%"></h2>
+### Hii there! <img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="3%"></h2>
 ## I'm Meet.
 
 <!-- <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
@@ -30,8 +30,8 @@
 
 ### GitHub Status:
 
-![Meet's Github stats](https://github-readme-stats.vercel.app/api?username=meetgoyani08&show_icons=true) -->
+![Meet's Github stats](https://github-readme-stats.vercel.app/api?username=meetgoyani08&show_icons=true)
 
 -----
 
-⭐️ From [Meet Goyani](https://github.com/meetgoyani08)
+⭐️ From [Meet Goyani](https://github.com/meet-goyani) -->
