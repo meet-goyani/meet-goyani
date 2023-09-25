@@ -1,6 +1,6 @@
 ### Hii there! <img src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/Hi.gif" width="3%"></h2>
 ## I'm Meet.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-goyani&label=Profile%20views&color=0e75b6&style=flat" alt="meetgoyani" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet-goyani&label=Profile%20views&color=0e75b6&style=flat" alt="meetgoyani" /> </p> ->
 <!-- <img align="right" alt="Person who coding gif" src="https://github.com/meetgoyani08/meetgoyani08/blob/main/assets/coding.gif" width="200" />
 #### Front-End Technology:
 ✔ HTML/CSS<br>
